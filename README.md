@@ -2,7 +2,6 @@
 Developing a machine learning method for blood pressure gene prioritisation.
 
 Notebooks containing codes and code output:
-Machine learning
 
 1. Labelling Training Data Categories: building the training dataset by setting the conditions of each class.
 
