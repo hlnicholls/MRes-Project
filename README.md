@@ -5,10 +5,9 @@ Notebooks containing codes and code output:
 
 1. Labelling Training Data Categories: building the training dataset by setting the conditions of each class.
 
-2. Keras optimising: building and altering deep neural network build for an optimised model for the BP data.
+2. Keras optimising: building and altering deep neural network build for an optimised model for the BP data - starting from a similarly applied keras model and using trial and error.
 
-3. BP Causal Gene Prediciton (benchmarking and feature importance included): the core code producing prioritised genes to enter pathway and systems analysis. Includes: data preprocessing, comparing models accuracies, and comparing their important features before using top performing model for gene prioritisation.
-
+3. BP Causal Gene Prediciton (benchmarking and feature importance included): the core code producing prioritised genes to enter bioinformatic pathway and systems analysis. Includes: data preprocessing, comparing models accuracies, and comparing their important features before using top performing model for gene prioritisation.
 
 4. Calculating knockoffs_for_feature_importance.html: R markdown showing code to apply knockoff statistical analysis and output. Aims to identify statisitcally significant features the models should be using.
 
